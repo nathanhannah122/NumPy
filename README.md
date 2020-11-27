@@ -1,13 +1,13 @@
 # NumPy
 ---------------------------------------------------------------------
-Using NumPy vs original Python
----------------------------------------------------------------------
+**Using NumPy vs original Python**
 Requires import of 
 - NumPy
 - time
 - random
 ----------------------------------------------------------------------
-Installing NumPy using Pycharm 
+**Installing NumPy using Pycharm**
+https://numpy.org/
 
 1. Create a new project
 2. Navigate to file> settings> Project:project_name> Python interpreter
